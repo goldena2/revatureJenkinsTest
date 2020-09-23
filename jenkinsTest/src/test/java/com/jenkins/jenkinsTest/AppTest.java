@@ -8,12 +8,12 @@ public class AppTest
 {
     @Test
     public void test1() {
-    	assertTrue(false);
+    	assertTrue(true);
     }
     
     @Test
     public void test2(){
-    	assertFalse(true);
+    	assertFalse(false);
     }
     
 }
